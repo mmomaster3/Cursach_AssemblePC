@@ -1,0 +1,296 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Cursach
+</name>
+</assembly>
+<members>
+<member name="T:Cursach.My.Resources.Resources">
+<summary>
+  Класс ресурса со строгой типизацией для поиска локализованных строк и т.д.
+</summary>
+</member>
+<member name="P:Cursach.My.Resources.Resources.ResourceManager">
+<summary>
+  Возвращает кэшированный экземпляр ResourceManager, использованный этим классом.
+</summary>
+</member>
+<member name="P:Cursach.My.Resources.Resources.Culture">
+<summary>
+  Перезаписывает свойство CurrentUICulture текущего потока для всех
+  обращений к ресурсу с помощью этого класса ресурса со строгой типизацией.
+</summary>
+</member>
+<member name="P:Cursach.My.Resources.Resources.FIX_IT__Logo2">
+<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:Cursach.AssemblePcDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Cursach.AssemblePcDataSet.ClientDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Cursach.AssemblePcDataSet.DriveDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Cursach.AssemblePcDataSet.GraphyCardDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Cursach.AssemblePcDataSet.MotherBoardDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Cursach.AssemblePcDataSet.PBDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Cursach.AssemblePcDataSet.PCDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Cursach.AssemblePcDataSet.PCOrderDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Cursach.AssemblePcDataSet.ProcessorDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Cursach.AssemblePcDataSet.RAMDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Cursach.AssemblePcDataSet.view_PCorderDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Cursach.AssemblePcDataSet.view_PCtryDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Cursach.AssemblePcDataSet.ClientRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Cursach.AssemblePcDataSet.DriveRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Cursach.AssemblePcDataSet.GraphyCardRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Cursach.AssemblePcDataSet.MotherBoardRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Cursach.AssemblePcDataSet.PBRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Cursach.AssemblePcDataSet.PCRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Cursach.AssemblePcDataSet.PCOrderRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Cursach.AssemblePcDataSet.ProcessorRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Cursach.AssemblePcDataSet.RAMRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Cursach.AssemblePcDataSet.view_PCorderRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Cursach.AssemblePcDataSet.view_PCtryRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Cursach.AssemblePcDataSet.ClientRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Cursach.AssemblePcDataSet.DriveRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Cursach.AssemblePcDataSet.GraphyCardRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Cursach.AssemblePcDataSet.MotherBoardRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Cursach.AssemblePcDataSet.PBRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Cursach.AssemblePcDataSet.PCRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Cursach.AssemblePcDataSet.PCOrderRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Cursach.AssemblePcDataSet.ProcessorRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Cursach.AssemblePcDataSet.RAMRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Cursach.AssemblePcDataSet.view_PCorderRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Cursach.AssemblePcDataSet.view_PCtryRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Cursach.AssemblePcDataSetTableAdapters.ClientTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Cursach.AssemblePcDataSetTableAdapters.DriveTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Cursach.AssemblePcDataSetTableAdapters.GraphyCardTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Cursach.AssemblePcDataSetTableAdapters.MotherBoardTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Cursach.AssemblePcDataSetTableAdapters.PBTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Cursach.AssemblePcDataSetTableAdapters.PCTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Cursach.AssemblePcDataSetTableAdapters.PCOrderTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Cursach.AssemblePcDataSetTableAdapters.ProcessorTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Cursach.AssemblePcDataSetTableAdapters.RAMTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Cursach.AssemblePcDataSetTableAdapters.view_PCorderTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Cursach.AssemblePcDataSetTableAdapters.view_PCtryTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Cursach.AssemblePcDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Cursach.AssemblePcDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Cursach.AssemblePcDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Cursach.AssemblePcDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Cursach.AssemblePcDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Cursach.AssemblePcDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Cursach.AssemblePcDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Cursach.AssemblePcDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Cursach.AssemblePcDataSetTableAdapters.TableAdapterManager.UpdateAll(Cursach.AssemblePcDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Cursach.AssemblePcDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Cursach.AssemblePcDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>

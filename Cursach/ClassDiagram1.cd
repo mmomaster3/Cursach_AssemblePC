@@ -1,0 +1,146 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Cursach.Form1">
+    <Position X="0.5" Y="0.5" Width="2" />
+    <Members>
+      <Field Name="AssemblePcDataSet" Hidden="true" />
+      <Field Name="BindingNavigatorAddNewItem" Hidden="true" />
+      <Field Name="BindingNavigatorCountItem" Hidden="true" />
+      <Field Name="BindingNavigatorDeleteItem" Hidden="true" />
+      <Field Name="BindingNavigatorMoveFirstItem" Hidden="true" />
+      <Field Name="BindingNavigatorMoveLastItem" Hidden="true" />
+      <Field Name="BindingNavigatorMoveNextItem" Hidden="true" />
+      <Field Name="BindingNavigatorMovePreviousItem" Hidden="true" />
+      <Field Name="BindingNavigatorPositionItem" Hidden="true" />
+      <Field Name="BindingNavigatorSeparator" Hidden="true" />
+      <Field Name="BindingNavigatorSeparator1" Hidden="true" />
+      <Field Name="BindingNavigatorSeparator2" Hidden="true" />
+      <Field Name="ClientBindingSource" Hidden="true" />
+      <Field Name="ClientDataGridView" Hidden="true" />
+      <Field Name="ClientTableAdapter" Hidden="true" />
+      <Field Name="components" Hidden="true" />
+      <Field Name="DataGridViewTextBoxColumn29" Hidden="true" />
+      <Field Name="DataGridViewTextBoxColumn30" Hidden="true" />
+      <Field Name="DataGridViewTextBoxColumn31" Hidden="true" />
+      <Field Name="DataGridViewTextBoxColumn32" Hidden="true" />
+      <Field Name="DataGridViewTextBoxColumn33" Hidden="true" />
+      <Field Name="DataGridViewTextBoxColumn34" Hidden="true" />
+      <Field Name="DataGridViewTextBoxColumn35" Hidden="true" />
+      <Field Name="DataGridViewTextBoxColumn36" Hidden="true" />
+      <Method Name="Dispose" Hidden="true" />
+      <Method Name="Form1_HelpButtonClicked" Hidden="true" />
+      <Method Name="Form1_Load" Hidden="true" />
+      <Method Name="InitializeComponent" Hidden="true" />
+      <Field Name="Label4" Hidden="true" />
+      <Field Name="Label5" Hidden="true" />
+      <Field Name="PCBindingSource" Hidden="true" />
+      <Field Name="PCTableAdapter" Hidden="true" />
+      <Field Name="TableAdapterManager" Hidden="true" />
+      <Field Name="TabPage1" Hidden="true" />
+      <Field Name="TabPage2" Hidden="true" />
+      <Field Name="View_PCorderBindingSource" Hidden="true" />
+      <Field Name="View_PCorderDataGridView" Hidden="true" />
+      <Field Name="View_PCorderTableAdapter" Hidden="true" />
+      <Field Name="View_PCtryBindingNavigator" Hidden="true" />
+      <Field Name="View_PCtryBindingNavigatorSaveItem" Hidden="true" />
+      <Method Name="View_PCtryBindingNavigatorSaveItem_Click" Hidden="true" />
+      <Field Name="View_PCtryBindingSource" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>QVGIEEBglGiAgRAAAETAUDgKRABccAkEE0QAIiEBAQM=</HashCode>
+      <FileName>Form1.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cursach.Form2">
+    <Position X="2.75" Y="0.5" Width="2.5" />
+    <Members>
+      <Field Name="AssemblePcDataSet" Hidden="true" />
+      <Field Name="BindingNavigatorAddNewItem" Hidden="true" />
+      <Field Name="BindingNavigatorCountItem" Hidden="true" />
+      <Field Name="BindingNavigatorDeleteItem" Hidden="true" />
+      <Field Name="BindingNavigatorMoveFirstItem" Hidden="true" />
+      <Field Name="BindingNavigatorMoveLastItem" Hidden="true" />
+      <Field Name="BindingNavigatorMoveNextItem" Hidden="true" />
+      <Field Name="BindingNavigatorMovePreviousItem" Hidden="true" />
+      <Field Name="BindingNavigatorPositionItem" Hidden="true" />
+      <Field Name="BindingNavigatorSeparator" Hidden="true" />
+      <Field Name="BindingNavigatorSeparator1" Hidden="true" />
+      <Field Name="BindingNavigatorSeparator2" Hidden="true" />
+      <Field Name="components" Hidden="true" />
+      <Field Name="DataGridViewTextBoxColumn1" Hidden="true" />
+      <Field Name="DataGridViewTextBoxColumn10" Hidden="true" />
+      <Field Name="DataGridViewTextBoxColumn11" Hidden="true" />
+      <Field Name="DataGridViewTextBoxColumn12" Hidden="true" />
+      <Field Name="DataGridViewTextBoxColumn13" Hidden="true" />
+      <Field Name="DataGridViewTextBoxColumn14" Hidden="true" />
+      <Field Name="DataGridViewTextBoxColumn15" Hidden="true" />
+      <Field Name="DataGridViewTextBoxColumn16" Hidden="true" />
+      <Field Name="DataGridViewTextBoxColumn17" Hidden="true" />
+      <Field Name="DataGridViewTextBoxColumn18" Hidden="true" />
+      <Field Name="DataGridViewTextBoxColumn19" Hidden="true" />
+      <Field Name="DataGridViewTextBoxColumn2" Hidden="true" />
+      <Field Name="DataGridViewTextBoxColumn20" Hidden="true" />
+      <Field Name="DataGridViewTextBoxColumn21" Hidden="true" />
+      <Field Name="DataGridViewTextBoxColumn22" Hidden="true" />
+      <Field Name="DataGridViewTextBoxColumn23" Hidden="true" />
+      <Field Name="DataGridViewTextBoxColumn24" Hidden="true" />
+      <Field Name="DataGridViewTextBoxColumn25" Hidden="true" />
+      <Field Name="DataGridViewTextBoxColumn26" Hidden="true" />
+      <Field Name="DataGridViewTextBoxColumn27" Hidden="true" />
+      <Field Name="DataGridViewTextBoxColumn28" Hidden="true" />
+      <Field Name="DataGridViewTextBoxColumn29" Hidden="true" />
+      <Field Name="DataGridViewTextBoxColumn3" Hidden="true" />
+      <Field Name="DataGridViewTextBoxColumn30" Hidden="true" />
+      <Field Name="DataGridViewTextBoxColumn31" Hidden="true" />
+      <Field Name="DataGridViewTextBoxColumn32" Hidden="true" />
+      <Field Name="DataGridViewTextBoxColumn33" Hidden="true" />
+      <Field Name="DataGridViewTextBoxColumn34" Hidden="true" />
+      <Field Name="DataGridViewTextBoxColumn35" Hidden="true" />
+      <Field Name="DataGridViewTextBoxColumn36" Hidden="true" />
+      <Field Name="DataGridViewTextBoxColumn37" Hidden="true" />
+      <Field Name="DataGridViewTextBoxColumn38" Hidden="true" />
+      <Field Name="DataGridViewTextBoxColumn39" Hidden="true" />
+      <Field Name="DataGridViewTextBoxColumn4" Hidden="true" />
+      <Field Name="DataGridViewTextBoxColumn40" Hidden="true" />
+      <Field Name="DataGridViewTextBoxColumn41" Hidden="true" />
+      <Field Name="DataGridViewTextBoxColumn42" Hidden="true" />
+      <Field Name="DataGridViewTextBoxColumn5" Hidden="true" />
+      <Field Name="DataGridViewTextBoxColumn6" Hidden="true" />
+      <Field Name="DataGridViewTextBoxColumn7" Hidden="true" />
+      <Field Name="DataGridViewTextBoxColumn8" Hidden="true" />
+      <Field Name="DataGridViewTextBoxColumn9" Hidden="true" />
+      <Method Name="Dispose" Hidden="true" />
+      <Field Name="DriveBindingSource" Hidden="true" />
+      <Field Name="DriveDataGridView" Hidden="true" />
+      <Field Name="GraphyCardBindingSource" Hidden="true" />
+      <Field Name="GraphyCardDataGridView" Hidden="true" />
+      <Method Name="InitializeComponent" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>wBGAIsIEkGDAkRAAAWLE0CACRCKQyEgABpEIIARAAQE=</HashCode>
+      <FileName>Form2.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cursach.Form3">
+    <Position X="5.5" Y="0.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>QBGAAEBQAGCAgRAEAEDAASACSCAACAEAAgAAKAAAAQE=</HashCode>
+      <FileName>Form3.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cursach.Form4">
+    <Position X="8.75" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAACAgAAAAAADAAAACAAAAAAEAAAAAAAQAAAA=</HashCode>
+      <FileName>Form4.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cursach.Form5">
+    <Position X="10.75" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAADAAAACAAEBAEAAAAQAAAQAAAA=</HashCode>
+      <FileName>Form5.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
